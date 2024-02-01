@@ -5,7 +5,7 @@
 - <b>Azure Computing & Networking</b>
   - [Azure Compute & Networking](https://github.com/LisetteTR/Azure-Compute-Networking)
 - <b>osTicket Software Helpdesk Lab
-  - [osTicket Lab](https://github.com/LisetteTR/OS-Ticket-Lab)</b> 
+  - [osTicket Lab](https://github.com/LisetteTR/OS-Ticket-Lab) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
