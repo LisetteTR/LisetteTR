@@ -3,7 +3,7 @@
 <h2> ☁️👩🏻‍💻Azure Cloud Projects:</h2>
 
 - <b>Azure Computing & Networking</b>
-  - [Azure Compute & Networking](https://github.com/LisetteTR/Azure-Compute-Networking)
+  - [Azure Compute & Networking Lab](https://github.com/LisetteTR/Azure-Compute-Networking)
 - <b>osTicket Software Helpdesk Lab
   - [osTicket Lab](https://github.com/LisetteTR/OS-Ticket-Lab) 
 - <b>PowerShell</b>
