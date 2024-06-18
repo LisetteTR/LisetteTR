@@ -1,7 +1,9 @@
 <h1>Hi, I'm Lisette ! <br/><a>Information Techology</a> <a>Professional</a>
 
-<h2> ☁️👩🏻‍💻Azure Cloud Projects:</h2>
+<h2> ☁️👩🏻‍💻Projects:</h2>
 
+- <b>SOHO Network Design and Implementation</b>
+   - [SOHO Network Design and Implementation Lab](https://github.com/LisetteTR/SOHO-Network-Design-and-Implimentation)
 - <b>Azure Computing & Networking</b>
   - [Azure Compute & Networking Lab](https://github.com/LisetteTR/Azure-Compute-Networking)
 - <b>osTicket Software Helpdesk Lab
@@ -11,3 +13,4 @@
 
 - <b>CourseCareers - Information Technology Certification</b>
 - <b>Microsoft Azure - AZ-900 Certification, Azure Cloud Fundementals<b/>
+- <b>Cisco CCNA - Cisco Certified Network Associate (expected in July)
