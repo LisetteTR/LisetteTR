@@ -13,4 +13,4 @@
 
 - <b>CourseCareers - Information Technology Certification</b>
 - <b>Microsoft Azure - AZ-900 Certification, Azure Cloud Fundementals<b/>
-- <b>Cisco CCNA - Cisco Certified Network Associate (expected in July)
+- <b>CompTIA Security plus SY0-701
