@@ -13,6 +13,6 @@
 <h2> Certifications & Education</h2>
 
 - <b>Western Governors University - B.S. in Cyber Security and Information Assurance (expected graduation: Jan 2026)
-- <b>CourseCareers - Information Technology Certification</b>
+- <b>Course Careers Boot Camp - Information Technology Certification</b>
 - <b>Microsoft Azure - AZ-900 Certification, Azure Cloud Fundementals<b/>
 - <b>CompTIA Security plus SY0-701
