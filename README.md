@@ -6,7 +6,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/LisetteTR/Vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/LisetteTR/Programmatic-Vulnerability-Remediation)**
 
 ## 🚨 Threat Hunting and Security Operations
 
