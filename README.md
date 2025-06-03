@@ -6,6 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/LisetteTR/Vulnerability-management-program)**
+- **[Vulnerability Assessment with Tenable and DISA STIG Template (Windows 10)](https://github.com/LisetteTR/Vulnerability-Assessment-with-Tenable-and-DISA-STIG-Template-Windows-10-)**
 
 ## 🚨 Threat Hunting and Security Operations
 
