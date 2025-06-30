@@ -14,9 +14,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
-## 🤳 Connect With Me On Linkedin
+## 🤳 Connect With Me
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/lisettetrejo)
+<a href="https://linkedin.com/in/lisettetrejo" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" />
+</a>
+
 
 
 <!--
